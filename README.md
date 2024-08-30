@@ -1,6 +1,6 @@
-# besocial
+# SocialNest
 
-A new Flutter project.
+A Social media UI.
 
 ## Getting Started
 
