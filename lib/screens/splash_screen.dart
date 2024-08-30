@@ -23,24 +23,22 @@ class _SplashScreenState extends State<SplashScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       body: Padding(
-        padding: const EdgeInsets.all(8.0),
+        padding: EdgeInsets.all(8.0),
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Container(
-                child: const Text(
-                  'SocialNest',
-                  style: TextStyle(
-                    fontSize: 75,
-                    // letterSpacing: -1,
-                    fontWeight: FontWeight.bold,
-                  ),
+              Text(
+                'SocialNest',
+                style: TextStyle(
+                  fontSize: 75,
+                  // letterSpacing: -1,
+                  fontWeight: FontWeight.bold,
                 ),
               ),
-              const Row(
+              Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Icon(
