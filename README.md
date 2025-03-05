@@ -1,4 +1,4 @@
-# Flutter Social Media UI App
+# Flutter Social Media UI App 🚀
 
 ## Overview
 This is a **Flutter Social Media UI App** that provides a visually appealing and interactive user interface for a social media platform. The app is designed to showcase various UI elements such as user profiles, posts, likes, comments, stories, and more.
@@ -18,7 +18,7 @@ This is a **Flutter Social Media UI App** that provides a visually appealing and
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/flutter-social-media-ui.git
+   git clone https://github.com/BNareshSolanki/SocialNest.git
    cd flutter-social-media-ui
    ```
 2. **Install Dependencies**
